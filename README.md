@@ -9,3 +9,20 @@
 * commons-logging    `日志`
 
 [spring jar包下载地址](http://maven.springframework.org/release/org/springframework/spring/) 
+
+
+> 19-08-15
+#### spring 事物控制
+
+- spring-tx
+- ojdbc           `数据库驱动`
+- commons-dbcp    `连接池使用到数据源`
+- commons-poll    `连接池`
+- spring-jdbc
+
+
+> 19-08-16
+#### 前置通知
+
+- aopaliance
+- aspectjweaver
